@@ -42,7 +42,7 @@ function StudentDetails() {
     if (faculty && department && level) {
       fetchStudents();
     }
-  }, [faculty, department, level]);
+  }, [faculty, department, level,fetchStudents]);
 
   const handleAddStudent = async () => {
     const { name, regNumber, indexNumber, email, address, birthdate, gender, mobile, password } = newStudent;

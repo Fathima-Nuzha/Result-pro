@@ -25,7 +25,7 @@ function ForgotPassword() {
     }
 
     try {
-      const res = await axios.post("http://localhost:5000/api/auth/send-otp", {
+      await axios.post("http://localhost:5000/api/auth/send-otp", {
          email: form.email,
       });
 
