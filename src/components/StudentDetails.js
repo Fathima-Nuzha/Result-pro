@@ -39,10 +39,10 @@ function StudentDetails() {
   };
 
   useEffect(() => {
-    if (faculty && department && level) {
-      fetchStudents();
-    }
-  }, [faculty, department, level,fetchStudents]);
+  if (faculty && department && level) {
+    fetchStudents();
+  }
+}, [faculty, department, level, fetchStudents]);
 
   const handleAddStudent = async () => {
     const { name, regNumber, indexNumber, email, address, birthdate, gender, mobile, password } = newStudent;
