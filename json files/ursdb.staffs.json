@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "698592b2972d6e6671d3f728"
+  },
+  "username": "athiththan_as",
+  "email": "athiththan@univ.ac.lk",
+  "password": "$argon2id$v=19$m=65536,t=3,p=4$s6QxKnVkpKiCyunlyeePjw$ZN82tT+rXcEJ9pdKZeYCRXi0rhAqfnSf0cA381kC/AQ",
+  "name": "Athiththan",
+  "faculty": "Applied Science",
+  "department": "Physical Science",
+  "role": "staff",
+  "createdAt": {
+    "$date": "2026-02-06T07:05:22.830Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698592e2972d6e6671d3f72d"
+  },
+  "username": "karthee_ict",
+  "email": "kartheeswaran@univ.ac.lk",
+  "password": "$argon2id$v=19$m=65536,t=3,p=4$ZlYpvZ1c3C+4YH4CGijd5A$MeI2VHuWAu1y/nWL+1ZsfRAQcsO/LTtChhMR1Lv+YBo",
+  "name": "Kartheeswaran",
+  "faculty": "Technology Studies",
+  "department": "Information and Communication Technology (ICT)",
+  "role": "staff",
+  "createdAt": {
+    "$date": "2026-02-06T07:06:10.990Z"
+  },
+  "__v": 0
+}]

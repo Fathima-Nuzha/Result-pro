@@ -1,0 +1,236 @@
+.login-page {
+  min-height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(135deg, #1e3c72, #2a5298);
+  position: relative;
+  overflow: hidden;
+}
+
+.login-page::before {
+  content: "";
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: radial-gradient(circle at center, rgba(255, 255, 255, 0.1), transparent 70%);
+  animation: floatGlow 8s infinite linear;
+  z-index: 0;
+}
+
+
+.navbar {
+  background: linear-gradient(135deg, #1e3c72, #2a5298);
+  color: #ffffff;
+  padding: 15px 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  position: relative;
+  z-index: 1;
+}
+
+.navbar h1 {
+  font-size: 1.8em;
+  font-weight: 700;
+  letter-spacing: 1px;
+  margin: 5px 0;
+}
+
+.navbar h2 {
+  font-size: 1.2em;
+  font-weight: 500;
+  margin: 0;
+}
+
+.nav-buttons {
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.nav-buttons button {
+  padding: 5px 12px;
+  border: none;
+  border-radius: 5px;
+  background-color: white;
+  color: #004aad;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.nav-buttons button:hover {
+  background-color: #e0e0e0;
+}
+
+.login-container {
+  width: 360px;
+  margin: 50px auto;
+  background: linear-gradient(145deg, #ffffff, #f0f0f0);
+  border-radius: 18px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+  padding: 30px;
+  text-align: center;
+  transition: all 0.3s ease-in-out;
+  position: relative;
+  z-index: 1;
+}
+
+.login-container:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 15px 25px rgba(0, 0, 0, 0.2);
+}
+
+.login-container h2 {
+  color: #333;
+  font-size: 1.6em;
+  font-weight: 700;
+  margin-bottom: 25px;
+  text-shadow: 1px 1px 2px rgba(100, 100, 100, 0.2);
+}
+
+.login-container input,
+.login-container select {
+  width: 100%;
+  padding: 12px 14px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  font-size: 1em;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.login-container input:focus,
+.login-container select:focus {
+  border-color: #007bff;
+  box-shadow: 0 0 6px rgba(0, 123, 255, 0.4);
+  outline: none;
+}
+
+.login-container button {
+  width: 200px;
+  padding: 12px;
+  margin-top: 15px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 1em;
+  font-weight: 600;
+  transition: all 0.25s ease;
+}
+
+.login-container button[type="submit"] {
+  background: #007bff;
+  color: white;
+}
+
+.login-container button[type="submit"]:hover {
+  background: #0056b3;
+  transform: scale(1.03);
+}
+
+.toggle-btn,
+.forgot-btn {
+  background: none;
+  border: none;
+  color: #007bff;
+  cursor: pointer;
+  text-decoration: underline;
+  font-size: 0.9em;
+  font-weight: 400;
+  transition: color 0.2s;
+}
+
+.toggle-btn:hover,
+.forgot-btn:hover {
+  color: #004999;
+}
+
+.back-btn {
+  background-color: #f44336;
+  color: white;
+}
+
+.back-btn:hover {
+  background-color: #d32f2f;
+  transform: scale(1.03);
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.remember-forgot {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 95%;
+  margin-top: 10px;
+}
+
+.remember-me {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: #333;
+  font-size: 0.9em;
+  cursor: pointer;
+}
+
+.remember-me input[type="checkbox"] {
+  width: 16px;
+  height: 16px;
+  accent-color: #007bff;
+  cursor: pointer;
+  border-radius: 3px;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (max-width: 600px) {
+  .navbar {
+    padding: 10px;
+  }
+
+  .navbar h1 {
+    font-size: 1.4em;
+  }
+
+  .navbar h2 {
+    font-size: 1em;
+  }
+}
+
+@media (max-width: 420px) {
+  .login-container {
+    width: 90%;
+    padding: 30px 20px;
+  }
+
+  .login-container h2 {
+    font-size: 1.4em;
+  }
+
+  .login-container input,
+  .login-container select,
+  .login-container button {
+    width: 100%;
+  }
+}

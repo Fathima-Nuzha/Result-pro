@@ -1,0 +1,108 @@
+[{
+  "_id": {
+    "$oid": "69723f8495af382f996234d2"
+  },
+  "username": "as_physical",
+  "email": "physical@university.edu",
+  "password": "$argon2id$v=19$m=65536,t=3,p=4$iThpbbAWDkZBojR6oFUFVQ$kjElZIoA7nkTckPDISojtsl23kNtCmwmZf+9OU1CP4k",
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2026-01-22T15:17:24.740Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-22T15:17:24.740Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69723f9295af382f996234d5"
+  },
+  "username": "as_biological",
+  "email": "biological@university.edu",
+  "password": "$argon2id$v=19$m=65536,t=3,p=4$SGdh69WTMvmpUYtjreFjng$vdQOQ+RIZbbzR60KqtM5rovvK4VJ2j+KPTGFoa4JUIc",
+  "faculty": "Faculty of Applied Science",
+  "department": "Biological Science",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2026-01-22T15:17:38.914Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-22T15:17:38.914Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69723fa295af382f996234d8"
+  },
+  "username": "bs_management",
+  "email": "management@university.edu",
+  "password": "$argon2id$v=19$m=65536,t=3,p=4$aS9kBMTeBYNe8RW7Dx9f4A$WHaTZrkIECitKAxVWmsphWaCjgsW4KN1lGxL0XG9mto",
+  "faculty": "Faculty of Business Studies",
+  "department": "Management",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2026-01-22T15:17:54.258Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-22T15:17:54.258Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69723fad95af382f996234db"
+  },
+  "username": "bs_finance",
+  "email": "finance@university.edu",
+  "password": "$argon2id$v=19$m=65536,t=3,p=4$yMtLW3D98UM/zRbWPoC5JA$xQW0ooY6vEe1T0btV4qzKYOk9P2hG3wDAs/7Osa2MZk",
+  "faculty": "Faculty of Business Studies",
+  "department": "Finance",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2026-01-22T15:18:05.011Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-22T15:18:05.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69723fb895af382f996234de"
+  },
+  "username": "ts_engineering",
+  "email": "engineering@university.edu",
+  "password": "$argon2id$v=19$m=65536,t=3,p=4$0pohDuWE71CQ8uEru5ffWQ$N6fDbS1fADaDqvO+pCG6qwf6socKQBeZG9W7XGaQlU8",
+  "faculty": "Faculty of Technological Studies",
+  "department": "Engineering",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2026-01-22T15:18:16.066Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-22T15:18:16.066Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69723fc495af382f996234e1"
+  },
+  "username": "ts_it",
+  "email": "it@university.edu",
+  "password": "$argon2id$v=19$m=65536,t=3,p=4$JfM/+h2M+hegn+aTwgy0TQ$YuhKzVhqDS2hgp9DeIyqf+Japbj+Ei43jBxAPXG0Yzs",
+  "faculty": "Faculty of Technological Studies",
+  "department": "IT",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2026-01-22T15:18:28.405Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-22T15:18:28.405Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,1332 @@
+[{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb38"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Biological Science",
+  "level": "Level 1",
+  "semester": "Semester 1",
+  "courseCode": "ENS1112",
+  "courseName": "Fundamentals in Environmental Chemistry",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb39"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Biological Science",
+  "level": "Level 1",
+  "semester": "Semester 1",
+  "courseCode": "ENS1121",
+  "courseName": "Analysis of Chemical Elements and Compounds",
+  "credits": 1
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb3a"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Biological Science",
+  "level": "Level 1",
+  "semester": "Semester 1",
+  "courseCode": "ENS1132",
+  "courseName": "Cell and Molecular Biology",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb3b"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Biological Science",
+  "level": "Level 1",
+  "semester": "Semester 1",
+  "courseCode": "ENS1142",
+  "courseName": "Plant Biology",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb3c"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Biological Science",
+  "level": "Level 1",
+  "semester": "Semester 1",
+  "courseCode": "ENS1153",
+  "courseName": "Fundamentals of Animal Biology",
+  "credits": 3
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb3d"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Biological Science",
+  "level": "Level 1",
+  "semester": "Semester 1",
+  "courseCode": "ENS1162",
+  "courseName": "Basic Mathematics",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb3e"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Biological Science",
+  "level": "Level 1",
+  "semester": "Semester 1",
+  "courseCode": "CCCU1113",
+  "courseName": "Fundamentals of Information Technology",
+  "credits": 3
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb3f"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Biological Science",
+  "level": "Level 1",
+  "semester": "Semester 1",
+  "courseCode": "ACU1113(BS)",
+  "courseName": "English Language I",
+  "credits": 3
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb40"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Bio Science",
+  "level": "Level 1",
+  "semester": "Semester 2",
+  "courseCode": "ENS1212",
+  "courseName": "Environment and Agriculture",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb41"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Bio Science",
+  "level": "Level 1",
+  "semester": "Semester 2",
+  "courseCode": "ENS1223",
+  "courseName": "Soil Science",
+  "credits": 3
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb42"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Bio Science",
+  "level": "Level 1",
+  "semester": "Semester 2",
+  "courseCode": "ENS1232",
+  "courseName": "Environmental Sanitation",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb43"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Bio Science",
+  "level": "Level 1",
+  "semester": "Semester 2",
+  "courseCode": "ENS1242",
+  "courseName": "Principles of Economics",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb44"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Bio Science",
+  "level": "Level 1",
+  "semester": "Semester 2",
+  "courseCode": "ENS1253",
+  "courseName": "Earth and Atmospheric Sciences",
+  "credits": 3
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb45"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Bio Science",
+  "level": "Level 1",
+  "semester": "Semester 2",
+  "courseCode": "ENS1263",
+  "courseName": "Fundamentals in Environmental Microbiology",
+  "credits": 3
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb46"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Bio Science",
+  "level": "Level 1",
+  "semester": "Semester 2",
+  "courseCode": "ACU1212(BS)",
+  "courseName": "ENS Social Harmony and Active Citizenship",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb47"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Biological Science",
+  "level": "Level 2",
+  "semester": "Semester 1",
+  "courseCode": "ENS2112",
+  "courseName": "Biodiversity and Conservation",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb48"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Biological Science",
+  "level": "Level 2",
+  "semester": "Semester 1",
+  "courseCode": "ENS2132",
+  "courseName": "Analytical Chemistry",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb49"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Biological Science",
+  "level": "Level 2",
+  "semester": "Semester 1",
+  "courseCode": "ENS2123",
+  "courseName": "Food, Nutrition and Environment",
+  "credits": 3
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb4a"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Biological Science",
+  "level": "Level 2",
+  "semester": "Semester 1",
+  "courseCode": "ENS2142",
+  "courseName": "Animal Behavior",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb4b"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Biological Science",
+  "level": "Level 2",
+  "semester": "Semester 1",
+  "courseCode": "ENS2152",
+  "courseName": "Forest Environmental Biology and Management",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb4c"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Biological Science",
+  "level": "Level 2",
+  "semester": "Semester 1",
+  "courseCode": "ENS2162",
+  "courseName": "Resource and Environmental Economics",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb4d"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Biological Science",
+  "level": "Level 2",
+  "semester": "Semester 1",
+  "courseCode": "ENS2172",
+  "courseName": "Sustainable Development for Environment",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb4e"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Biological Science",
+  "level": "Level 2",
+  "semester": "Semester 1",
+  "courseCode": "ACU2113(BS)",
+  "courseName": "English Language II",
+  "credits": 3
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb4f"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Bio Science",
+  "level": "Level 2",
+  "semester": "Semester 2",
+  "courseCode": "ACU2212(BS)",
+  "courseName": "ENS Communication and Soft Skills",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb50"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Bio Science",
+  "level": "Level 2",
+  "semester": "Semester 2",
+  "courseCode": "ENS2263",
+  "courseName": "Environmental Pollution and Control",
+  "credits": 3
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb51"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Bio Science",
+  "level": "Level 2",
+  "semester": "Semester 2",
+  "courseCode": "ENS2252",
+  "courseName": "Ecotourism",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb52"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Bio Science",
+  "level": "Level 2",
+  "semester": "Semester 2",
+  "courseCode": "ENS2242",
+  "courseName": "Energy and Environment",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb53"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Bio Science",
+  "level": "Level 2",
+  "semester": "Semester 2",
+  "courseCode": "ENS2233",
+  "courseName": "Environmental Disaster Management",
+  "credits": 3
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb54"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Bio Science",
+  "level": "Level 2",
+  "semester": "Semester 2",
+  "courseCode": "ENS2222",
+  "courseName": "Applied Ecology and Community Environment",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb55"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Bio Science",
+  "level": "Level 2",
+  "semester": "Semester 2",
+  "courseCode": "ENS2213",
+  "courseName": "Applied Hydrology and Water Resource Management",
+  "credits": 3
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb56"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Biological Science",
+  "level": "Level 3",
+  "semester": "Semester 1",
+  "courseCode": "ENS3113",
+  "courseName": "Geographic Information System and Remote Sensing",
+  "credits": 3
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb57"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Biological Science",
+  "level": "Level 3",
+  "semester": "Semester 1",
+  "courseCode": "ENS3122",
+  "courseName": "Wildlife Conservation and Management",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb58"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Biological Science",
+  "level": "Level 3",
+  "semester": "Semester 1",
+  "courseCode": "ENS3132",
+  "courseName": "Environmental Policies and Law",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb59"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Biological Science",
+  "level": "Level 3",
+  "semester": "Semester 1",
+  "courseCode": "ENS3143",
+  "courseName": "Solid Waste Management",
+  "credits": 3
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb5a"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Biological Science",
+  "level": "Level 3",
+  "semester": "Semester 1",
+  "courseCode": "ENS3153",
+  "courseName": "Environmental Biotechnology",
+  "credits": 3
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb5b"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Biological Science",
+  "level": "Level 3",
+  "semester": "Semester 1",
+  "courseCode": "ENS3162",
+  "courseName": "Industrial Chemistry and Pollution Monitoring",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb5c"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Bio Science",
+  "level": "Level 3",
+  "semester": "Semester 2",
+  "courseCode": "ENS3251",
+  "courseName": "Seminar ",
+  "credits": 1
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb5d"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Bio Science",
+  "level": "Level 3",
+  "semester": "Semester 2",
+  "courseCode": "ACU3212(BS)",
+  "courseName": "ENS Management and Entrepreneurial Skills",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb5e"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Bio Science",
+  "level": "Level 3",
+  "semester": "Semester 2",
+  "courseCode": "ENS3273",
+  "courseName": "Environmental Toxicology",
+  "credits": 3
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb5f"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Bio Science",
+  "level": "Level 3",
+  "semester": "Semester 2",
+  "courseCode": "ENS3262",
+  "courseName": "Biomolecules and Bioseparation Techniques",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb60"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Bio Science",
+  "level": "Level 3",
+  "semester": "Semester 2",
+  "courseCode": "ENS3242",
+  "courseName": "Wastewater Treatment",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb61"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Bio Science",
+  "level": "Level 3",
+  "semester": "Semester 2",
+  "courseCode": "ENS3232",
+  "courseName": "Marine Environment and Management",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb62"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Bio Science",
+  "level": "Level 3",
+  "semester": "Semester 2",
+  "courseCode": "ENS3222",
+  "courseName": "Environmental Impact Assessment and Environmental Audit",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb63"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Bio Science",
+  "level": "Level 3",
+  "semester": "Semester 2",
+  "courseCode": "ENS3213",
+  "courseName": "Statistics for Environmental Science",
+  "credits": 3
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb64"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Biological Science",
+  "level": "Level 4",
+  "semester": "Semester 1",
+  "courseCode": "ENS4112",
+  "courseName": "Project Planning and Management",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb65"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Biological Science",
+  "level": "Level 4",
+  "semester": "Semester 1",
+  "courseCode": "ENS4122",
+  "courseName": "Cleaner Production",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb66"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Biological Science",
+  "level": "Level 4",
+  "semester": "Semester 1",
+  "courseCode": "ENS4133",
+  "courseName": "Research Methods and Experimental Design",
+  "credits": 3
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb67"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Biological Science",
+  "level": "Level 4",
+  "semester": "Semester 1",
+  "courseCode": "ENS4142",
+  "courseName": "Limnology and Wetland Management",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb68"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Biological Science",
+  "level": "Level 4",
+  "semester": "Semester 1",
+  "courseCode": "ENS4152",
+  "courseName": "Advanced Water Treatment",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb69"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Biological Science",
+  "level": "Level 4",
+  "semester": "Semester 1",
+  "courseCode": "ENS4163",
+  "courseName": "Groundwater Management",
+  "credits": 3
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb6a"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Biological Science",
+  "level": "Level 4",
+  "semester": "Semester 1",
+  "courseCode": "ENS4183",
+  "courseName": "Advanced Spectroscopic Methods",
+  "credits": 3
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb6b"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Biological Science",
+  "level": "Level 4",
+  "semester": "Semester 1",
+  "courseCode": "ENS4192",
+  "courseName": "Climate Change",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb6d"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Biological Science",
+  "level": "Level 4",
+  "semester": "Semester 1",
+  "courseCode": "ENS41113",
+  "courseName": "Metrology",
+  "credits": 3
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb6e"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Bio Science",
+  "level": "Level 4",
+  "semester": "Semester 2",
+  "courseCode": "ENS4252",
+  "courseName": "Integrated Weed Management",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb6f"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Bio Science",
+  "level": "Level 4",
+  "semester": "Semester 2",
+  "courseCode": "ENS4242",
+  "courseName": "Plantation Forestry and Environment",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb70"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Bio Science",
+  "level": "Level 4",
+  "semester": "Semester 2",
+  "courseCode": "ENS4232",
+  "courseName": "Environmental System Modeling",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb71"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Bio Science",
+  "level": "Level 4",
+  "semester": "Semester 2",
+  "courseCode": "ENS4226",
+  "courseName": "Research Project",
+  "credits": 6
+},
+{
+  "_id": {
+    "$oid": "697855dbf70e224ab4dbbb72"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Bio Science",
+  "level": "Level 4",
+  "semester": "Semester 2",
+  "courseCode": "ENS4211",
+  "courseName": "Industrial Training",
+  "credits": 1
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbb73"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 1",
+  "semester": "Semester 1",
+  "courseCode": "IT1113",
+  "courseName": "Fundamentals of Information Technology",
+  "credits": 3
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbb74"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 1",
+  "semester": "Semester 1",
+  "courseCode": "IT1122",
+  "courseName": "Foundation of Mathematics",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbb75"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 1",
+  "semester": "Semester 1",
+  "courseCode": "IT1134",
+  "courseName": "Fundamentals of Programming",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbb76"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 1",
+  "semester": "Semester 1",
+  "courseCode": "IT1144",
+  "courseName": "Fundamentals of Web Programming",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbb77"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 1",
+  "semester": "Semester 1",
+  "courseCode": "IT1152",
+  "courseName": "Essentials of Statistics",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbb78"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 1",
+  "semester": "Semester 1",
+  "courseCode": "ACU1113",
+  "courseName": "English Language I",
+  "credits": 3
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbb79"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 1",
+  "semester": "Semester 2",
+  "courseCode": "ACU1212",
+  "courseName": "IT Social Harmony and Active Citizenship",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbb7a"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 1",
+  "semester": "Semester 2",
+  "courseCode": "IT1262",
+  "courseName": "Mathematics for Computing",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbb7b"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 1",
+  "semester": "Semester 2",
+  "courseCode": "IT1252",
+  "courseName": "Electronics and Device Interfacing",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbb7c"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 1",
+  "semester": "Semester 2",
+  "courseCode": "IT1242",
+  "courseName": "Principles of Computer Networks",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbb7d"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 1",
+  "semester": "Semester 2",
+  "courseCode": "IT1232",
+  "courseName": "Project Management",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbb7e"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 1",
+  "semester": "Semester 2",
+  "courseCode": "IT1223",
+  "courseName": "Database Management Systems",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbb7f"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 1",
+  "semester": "Semester 2",
+  "courseCode": "IT1214",
+  "courseName": "Object Oriented Design and Programming",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbb80"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 2",
+  "semester": "Semester 1",
+  "courseCode": "IT2114",
+  "courseName": "Data Structures",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbb81"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 2",
+  "semester": "Semester 1",
+  "courseCode": "IT2122",
+  "courseName": "Software Engineering",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbb82"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 2",
+  "semester": "Semester 1",
+  "courseCode": "IT2133",
+  "courseName": "Advanced Web Programming",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbb83"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 2",
+  "semester": "Semester 1",
+  "courseCode": "IT2143",
+  "courseName": "Visual Programming",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbb84"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 2",
+  "semester": "Semester 1",
+  "courseCode": "IT2153",
+  "courseName": "Computer Graphics",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbb85"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 2",
+  "semester": "Semester 1",
+  "courseCode": "ACU2113",
+  "courseName": "English Language II",
+  "credits": 3
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbb86"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 2",
+  "semester": "Semester 2",
+  "courseCode": "ACU2212",
+  "courseName": "IT Communication and Soft Skills",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbb87"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 2",
+  "semester": "Semester 2",
+  "courseCode": "IT2252",
+  "courseName": "Social and Professional Issues in IT",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbb88"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 2",
+  "semester": "Semester 2",
+  "courseCode": "IT2244",
+  "courseName": "Operating Systems",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbb89"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 2",
+  "semester": "Semester 2",
+  "courseCode": "IT2234",
+  "courseName": "Web Services and Server Technologies",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbb8a"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 2",
+  "semester": "Semester 2",
+  "courseCode": "IT2223",
+  "courseName": "Design and Analysis of Algorithms",
+  "credits": 1
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbb8b"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 2",
+  "semester": "Semester 2",
+  "courseCode": "IT2212",
+  "courseName": "Management Information Systems",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbb8c"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 3",
+  "semester": "Semester 1",
+  "courseCode": "IT3113",
+  "courseName": "Knowledge Based Systems and Logic Programming",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbb8d"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 3",
+  "semester": "Semester 1",
+  "courseCode": "IT3122",
+  "courseName": "Computer Security",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbb8e"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 3",
+  "semester": "Semester 1",
+  "courseCode": "IT3133",
+  "courseName": "Mobile Communication and Computing",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbb8f"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 3",
+  "semester": "Semester 1",
+  "courseCode": "IT3143",
+  "courseName": "Digital Image Processing",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbb90"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 3",
+  "semester": "Semester 1",
+  "courseCode": "IT3152",
+  "courseName": "Software Quality Assurance",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbb91"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 3",
+  "semester": "Semester 1",
+  "courseCode": "IT3162",
+  "courseName": "Group Project",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbb92"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 3",
+  "semester": "Semester 1",
+  "courseCode": "ACU3112",
+  "courseName": "Career Guidance",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbb93"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 3",
+  "semester": "Semester 2",
+  "courseCode": "ACU3222",
+  "courseName": "IT Research Methodology and Scientific Writing",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbb94"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 3",
+  "semester": "Semester 2",
+  "courseCode": "ACU3212",
+  "courseName": "IT Management and Entrepreneurial Skills",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbb95"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 3",
+  "semester": "Semester 2",
+  "courseCode": "IT3262",
+  "courseName": "Operations Research",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbb96"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 3",
+  "semester": "Semester 2",
+  "courseCode": "IT3252",
+  "courseName": "Multimedia Computing",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbb97"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 3",
+  "semester": "Semester 2",
+  "courseCode": "IT3243",
+  "courseName": "Parallel Computing",
+  "credits": 1
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbb98"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 3",
+  "semester": "Semester 2",
+  "courseCode": "IT3232",
+  "courseName": "E-Commerce",
+  "credits": 1
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbb99"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 3",
+  "semester": "Semester 2",
+  "courseCode": "IT3223",
+  "courseName": "Advanced Database Management Systems",
+  "credits": 1
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbb9a"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 3",
+  "semester": "Semester 2",
+  "courseCode": "IT3213",
+  "courseName": "Human Computer Interaction",
+  "credits": 1
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbb9b"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 4",
+  "semester": "Semester 1",
+  "courseCode": "IT4113",
+  "courseName": "Computer Organization and Architecture",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbb9c"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 4",
+  "semester": "Semester 1",
+  "courseCode": "IT4123",
+  "courseName": "Agent Based Computing",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbb9d"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 4",
+  "semester": "Semester 1",
+  "courseCode": "IT4133",
+  "courseName": "Bioinformatics and Computational Biology",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbb9e"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 4",
+  "semester": "Semester 1",
+  "courseCode": "IT4142",
+  "courseName": "Compiler Design",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbb9f"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 4",
+  "semester": "Semester 1",
+  "courseCode": "IT4153",
+  "courseName": "Advanced Computer Networks",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbba0"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 4",
+  "semester": "Semester 1",
+  "courseCode": "EL4122",
+  "courseName": "Data Science",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbba1"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 4",
+  "semester": "Semester 1",
+  "courseCode": "EL4132",
+  "courseName": "GIS and Remote Sensing",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbba2"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 4",
+  "semester": "Semester 1",
+  "courseCode": "EL4142",
+  "courseName": "Graph Theory",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbba3"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 4",
+  "semester": "Semester 1",
+  "courseCode": "EL4152",
+  "courseName": "Machine Learning",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbba4"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 4",
+  "semester": "Semester 1",
+  "courseCode": "EL4162",
+  "courseName": "Numerical Computing",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbba5"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 4",
+  "semester": "Semester 1",
+  "courseCode": "EL4182",
+  "courseName": "Smart Systems",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbba6"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 4",
+  "semester": "Semester 1",
+  "courseCode": "EL4192",
+  "courseName": "Software Defined Networking",
+  "credits": 2
+},
+{
+  "_id": {
+    "$oid": "697855e7f70e224ab4dbbba7"
+  },
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 4",
+  "semester": "Semester 2",
+  "courseCode": "IT4216",
+  "courseName": "Research Project",
+  "credits": 6
+}]

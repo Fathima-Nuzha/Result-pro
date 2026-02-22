@@ -1,0 +1,100 @@
+.frontpage {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(135deg, #1e3c72, #2a5298);
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  overflow: hidden;
+  position: relative;
+}
+
+.frontpage::before {
+  content: "";
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: radial-gradient(circle at center, rgba(255, 255, 255, 0.1), transparent 70%);
+  animation: floatGlow 8s infinite linear;
+  z-index: 0;
+}
+
+@keyframes floatGlow {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.front-content {
+  z-index: 1;
+  background: rgba(255, 255, 255, 0.1);
+  padding: 50px 60px;
+  border-radius: 16px;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);
+  max-width: 600px;
+  animation: fadeIn 1.5s ease-in;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.front-content h1 {
+  font-size: 3.5rem;
+  margin-bottom: 15px;
+  letter-spacing: 1px;
+  font-weight: 700;
+  color: #ffffff;
+  text-shadow: 0 3px 10px rgba(0, 0, 0, 0.3);
+}
+
+.front-content h3 {
+  font-weight: 400;
+  margin-bottom: 40px;
+  font-size: 1.4rem;
+  color: #e0e0e0;
+}
+
+.front-content button {
+  background: linear-gradient(135deg, #00b4d8, #0077b6);
+  color: white;
+  padding: 12px 35px;
+  border-radius: 10px;
+  border: none;
+  font-weight: 600;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(0, 180, 216, 0.3);
+  
+}
+
+.front-content button:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 18px rgba(0, 180, 216, 0.5);
+  background: linear-gradient(135deg, #0096c7, #023e8a);
+}
+
+.front-footer {
+  position: absolute;
+  bottom: 20px;
+  font-size: 0.9rem;
+  color: rgba(255, 255, 255, 0.8);
+  letter-spacing: 0.5px;
+}

@@ -1,0 +1,88 @@
+.view-results-container {
+  max-width: 800px;
+  margin: 40px auto;
+  background: #ffffff;
+  padding: 40px 30px;
+  border-radius: 16px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+  font-family: "Poppins", sans-serif;
+}
+
+.view-results-container h2 {
+  color: #007bff;
+  margin-bottom: 30px;
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.semester {
+  margin-bottom: 30px;
+}
+
+.semester h3 {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 15px;
+  border-radius: 8px;
+  text-align: left;
+  font-size: 18px;
+  margin-bottom: 12px;
+}
+
+.results-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.results-table th,
+.results-table td {
+  border: 1px solid #dee2e6;
+  padding: 12px;
+  text-align: center;
+  font-size: 15px;
+}
+
+.results-table th {
+  background-color: #007bff;
+  color: #fff;
+  font-weight: 600;
+}
+
+.results-table tr:nth-child(even) {
+  background-color: #f8f9fa;
+}
+
+.back-btn {
+  margin-top: 25px;
+  padding: 12px 30px;
+  background-color: #6c757d;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.back-btn:hover {
+  background-color: #5a6268;
+}
+
+@media (max-width: 600px) {
+  .view-results-container {
+    padding: 30px 20px;
+  }
+
+  .results-table th,
+  .results-table td {
+    font-size: 14px;
+    padding: 10px 8px;
+  }
+
+  .back-btn {
+    width: 100%;
+  }
+}

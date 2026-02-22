@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "6984de4db8c794c1778b62f2"
+  },
+  "name": "Kosala Madushan",
+  "regNumber": "2021ICT36",
+  "indexNumber": "IT17025",
+  "address": "No 81/D, Galgoda, Mahawalathenna, Balangoda",
+  "birthdate": {
+    "$date": "2002-10-17T00:00:00.000Z"
+  },
+  "gender": "Male",
+  "mobile": "0774224212",
+  "email": "2021ict36@stu.vau.ac.lk",
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 3",
+  "password": "$argon2id$v=19$m=65536,t=3,p=4$PTEi1Fx/kX9iK31LizXHBg$27c6CSzTcLb114tlTYUk5rCI85GfD7iI51HDi6PKoZg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6984e1ba023f50abf562e09e"
+  },
+  "name": "Nawarathne U.D.N.P.",
+  "regNumber": "2021ict41",
+  "indexNumber": "IT17029",
+  "address": "Anuradhapura",
+  "birthdate": {
+    "$date": "2000-08-30T00:00:00.000Z"
+  },
+  "gender": "Female",
+  "mobile": "0745512073",
+  "email": "2021ict41@stu.vau.ac.lk",
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 3",
+  "password": "$argon2id$v=19$m=65536,t=3,p=4$Ce64LgOD4sfJrJB9kYyaQQ$ElwzCZE39E2B5iz9K61+RvBl6zw2ugO2WXqer5hgGq4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6984e1ba023f50abf562e09f"
+  },
+  "name": "Manoj S.",
+  "regNumber": "2021ict74",
+  "indexNumber": "IT17056",
+  "address": "Hambantota",
+  "birthdate": {
+    "$date": "2001-05-19T00:00:00.000Z"
+  },
+  "gender": "Male",
+  "mobile": "0758823419",
+  "email": "2021ict74@stu.vau.ac.lk",
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 3",
+  "password": "$argon2id$v=19$m=65536,t=3,p=4$ouN+1F5b4PGGnFSdOWVLvA$cn4ff6Wa92KBwSxvp0MHNaSwDZ9Sd+tcCVLjdbmHokk",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6984e1ba023f50abf562e0a0"
+  },
+  "name": "Keerthana R.",
+  "regNumber": "2021ict96",
+  "indexNumber": "IT17077",
+  "address": "Trincomalee",
+  "birthdate": {
+    "$date": "2000-10-18T00:00:00.000Z"
+  },
+  "gender": "Female",
+  "mobile": "0782293416",
+  "email": "2021ict96@stu.vau.ac.lk",
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 3",
+  "password": "$argon2id$v=19$m=65536,t=3,p=4$BB+cGFrBIJHwFELyojJtgw$g7DiNgMJo/h6gH5AaWDIbYKjyhNfkm0iE5hfAL2iJxM",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6984e1ba023f50abf562e0a1"
+  },
+  "name": "Nusha M.I.F.",
+  "regNumber": "2021ict108",
+  "indexNumber": "IT17088",
+  "address": "Kalmunai",
+  "birthdate": {
+    "$date": "2001-04-14T00:00:00.000Z"
+  },
+  "gender": "Female",
+  "mobile": "0715523894",
+  "email": "2021ict108@stu.vau.ac.lk",
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 3",
+  "password": "$argon2id$v=19$m=65536,t=3,p=4$wCxxw1z7mJ25KvEwFd2ZKw$xbr1/+egyEU2ksSOzzkiVcs7MlZHgR2lNl3XYAQ5Os0",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6984e1ba023f50abf562e0a2"
+  },
+  "name": "Bandara A.C.K.S.",
+  "regNumber": "2021ict122",
+  "indexNumber": "IT17102",
+  "address": "Kurunegala",
+  "birthdate": {
+    "$date": "2001-11-20T00:00:00.000Z"
+  },
+  "gender": "Male",
+  "mobile": "0758823146",
+  "email": "2021ict122@stu.vau.ac.lk",
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 3",
+  "password": "$argon2id$v=19$m=65536,t=3,p=4$nplhukTlNtRG4DGgDXBjRA$uicvM5Dd9cWB1yCjUIseKzZf3ow12XCSeywazngM0w8",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6984e1ba023f50abf562e0a3"
+  },
+  "name": "Punya Udayasiri",
+  "regNumber": "2021ict123",
+  "indexNumber": "IT17103",
+  "address": "Kegalle",
+  "birthdate": {
+    "$date": "2001-11-12T00:00:00.000Z"
+  },
+  "gender": "Female",
+  "mobile": "0716957954",
+  "email": "2021ict123@stu.vau.ac.lk",
+  "faculty": "Faculty of Applied Science",
+  "department": "Physical Science",
+  "level": "Level 3",
+  "password": "$argon2id$v=19$m=65536,t=3,p=4$HtpTzwsN6YYk5KTH2R23VQ$WQ/0xcuC8/BdoplJ7OIdx5adsL0Xr9dMG6+k6sEcfZE",
+  "__v": 0
+}]

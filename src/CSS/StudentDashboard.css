@@ -1,0 +1,217 @@
+/* STUDENT DASHBOARD - ADMIN STYLE THEME */
+
+.student-dashboard-container {
+  font-family: "Poppins", sans-serif;
+  background: #f9fbfd;
+  min-height: 100vh;
+  color: #333; /* Darker text for readability on light background */
+}
+
+/* Matching the Admin Navbar Style */
+.student-header {
+  background: linear-gradient(135deg, #1e3c72, #2a5298);
+  border-bottom: 1px solid #e2e8f0;
+  padding: 15px 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.05);
+  margin-bottom: 30px;
+}
+
+.student-header h1 {
+  font-size: 1.2em;
+  font-weight: 600;
+  color: white; /* Matches Admin h1 in navbar */
+  margin: 0;
+}
+
+.header-right {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.header-right span {
+  font-size: 0.9em;
+  color: white;
+  font-weight: 500;
+}
+
+.logout-btn {
+  background-color: #e63946;
+  color: white;
+  border: none;
+  padding: 8px 14px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+  font-weight: 500;
+}
+
+.logout-btn:hover {
+  background-color: #b91c1c;
+}
+
+/* Student Info Section (Using Admin Card Style) */
+.student-info {
+  background: #fff;
+  padding: 25px;
+  border-radius: 14px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  margin: 0 40px 25px 40px;
+  border: 1px solid #e5e7eb;
+}
+
+.nav-info {
+  margin-bottom: 15px;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.info-badge {
+  background: #f0f8ff;
+  color: #1e40af;
+  padding: 5px 12px;
+  border-radius: 20px;
+  font-size: 0.85em;
+  font-weight: 600;
+}
+
+/* GPA Boxes (Using Admin Stats Grid Style) */
+.summary-boxes {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 15px;
+  flex-wrap: wrap;
+}
+
+.gpa-box {
+  background: #fff;
+  padding: 20px;
+  border-radius: 14px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  min-width: 180px;
+  border: 1px solid #f1f5f9;
+}
+
+.gpa-label {
+  font-size: 0.9em;
+  color: #666;
+  font-weight: 500;
+}
+
+.gpa-value {
+  font-size: 1.5em;
+  font-weight: 700;
+}
+
+.total-gpa .gpa-value { color: #2563eb; } /* Admin Blue */
+.cgpa .gpa-value { color: #7c3aed; }      /* Admin Purple */
+
+/* Selection Buttons (Using Admin Tab/Action Style) */
+.selectors {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 0 40px;
+  margin-bottom: 30px;
+}
+
+.level-select, .semester-select {
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+
+.level-btn, .semester-btn {
+  background: none;
+  border: 2px dashed #cbd5e1; /* Matches Admin "Quick Action" look */
+  padding: 10px 20px;
+  border-radius: 10px;
+  font-size: 0.9em;
+  cursor: pointer;
+  color: #444;
+  transition: all 0.3s ease;
+  font-weight: 500;
+}
+
+.level-btn:hover, .semester-btn:hover {
+  border-color: #2563eb;
+  color: #2563eb;
+  background: #f0f8ff;
+}
+
+.level-btn.active, .semester-btn.active {
+  background: #1e40af; /* Admin Primary */
+  color: white;
+  border: 2px solid #1e40af;
+  border-style: solid;
+}
+
+/* Results Table (Using Admin Table Style) */
+.results-section {
+  padding: 0 40px 40px 40px;
+}
+
+.results-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.results-table th {
+  background-color: #2563eb; /* Admin Blue */
+  color: white;
+  padding: 15px;
+  font-weight: 600;
+  text-align: left;
+}
+
+.results-table td {
+  border-bottom: 1px solid #e2e8f0;
+  padding: 15px;
+  color: #444;
+}
+
+.grade-display {
+  font-weight: 700;
+  color: #1e40af;
+}
+
+.fail-grade {
+  color: #e63946;
+}
+
+.download-btn {
+  margin-top: 20px;
+  background-color: #16a34a; /* Admin Green */
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 600;
+  transition: opacity 0.3s;
+}
+
+.download-btn:hover {
+  opacity: 0.9;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .student-info, .selectors, .results-section {
+    padding: 0 20px;
+    margin: 0 0 20px 0;
+  }
+}

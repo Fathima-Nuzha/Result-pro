@@ -1,0 +1,157 @@
+.upload-container {
+  min-height: 100vh;
+  background-color: #f4f7fc;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start; 
+  padding: 150px 20px 40px 20px; 
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.upload-card {
+  width: 100%;
+  max-width: 1300px;
+  background: white;
+  border-radius: 12px;
+  padding: 30px;
+  box-shadow: 0 5px 25px rgba(0,0,0,0.08);
+  border-top: 5px solid #4a90e2; 
+  margin-top: 20px; 
+}
+
+.readonly-input {
+  background-color: #f3f4f6; 
+  color: #555;
+  font-weight: bold;
+  text-align: center;
+  cursor: not-allowed;
+  width: 100%; 
+  padding: 8px; 
+  border-radius: 4px;
+}
+
+.grade-cell {
+  font-weight: bold;
+  text-align: center;
+  font-size: 1.1em;
+  padding: 8px;
+  display: block; 
+}
+
+h2 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.info-bar {
+  background: #eef4fb;
+  padding: 15px;
+  border-radius: 8px;
+  margin-bottom: 25px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 10px;
+  color: #555;
+  border: 1px solid #dcebf7;
+}
+
+.info-bar span {
+  font-size: 14px;
+}
+
+.message {
+  padding: 12px;
+  border-radius: 6px;
+  text-align: center;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+.message.success { background: #d4edda; color: #155724; border: 1px solid #c3e6cb; }
+.message.error { background: #f8d7da; color: #721c24; border: 1px solid #f5c6cb; }
+
+.grades-table-wrapper {
+  overflow-x: auto;
+  border-radius: 8px;
+  border: 1px solid #e0e0e0;
+  margin-bottom: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 900px; 
+}
+
+thead {
+  background-color: #4a90e2;
+  color: white;
+}
+
+th, td {
+  padding: 12px 10px;
+  text-align: left;
+  border-bottom: 1px solid #eee;
+  font-size: 14px;
+}
+
+th {
+  text-transform: uppercase;
+  font-size: 12px;
+  letter-spacing: 0.5px;
+}
+
+tr:nth-child(even) { background-color: #f9fbff; }
+
+td input {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 14px;
+}
+
+td input:focus {
+  border-color: #4a90e2;
+  outline: none;
+  box-shadow: 0 0 0 2px rgba(74, 144, 226, 0.15);
+}
+
+.grade-A\+, .grade-A, .grade-A- { color: #28a745; font-weight: bold; }
+.grade-B\+, .grade-B, .grade-B- { color: #17a2b8; font-weight: bold; }
+.grade-C\+, .grade-C, .grade-C- { color: #ffc107; font-weight: bold; }
+.grade-D\+, .grade-D { color: #fd7e14; font-weight: bold; }
+.grade-F { color: #dc3545; font-weight: bold; }
+
+.btn-group {
+  display: flex;
+  justify-content: flex-end;
+  gap: 15px;
+  margin-top: 20px;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  border-radius: 6px;
+  padding: 10px 20px;
+  font-size: 14px;
+  font-weight: 600;
+  transition: opacity 0.2s;
+}
+
+button:hover { opacity: 0.9; }
+
+.add-btn { background-color: #28a745; color: white; }
+.save-btn { background-color: #007bff; color: white; }
+.back-btn { background-color: #6c757d; color: white; }
+.delete-btn { background-color: #ff4d4d; color: white; padding: 6px 12px; font-size: 12px; }
+
+.back-container { margin-top: 30px; }
+
+@media (max-width: 768px) {
+  .info-bar { flex-direction: column; text-align: center; }
+  .btn-group { flex-direction: column; }
+}

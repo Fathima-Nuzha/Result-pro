@@ -1,0 +1,258 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; 
+}
+
+.staff-container {
+  font-family: "Poppins", sans-serif;
+  background: #f9fbfd;
+  min-height: 100vh;
+  width: 100%;
+  overflow-x: hidden; 
+}
+
+.staff-navbar {
+  background: linear-gradient(135deg, #1e3c72, #2a5298);
+  padding: 15px 20px; 
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  width: 100%;
+}
+
+.navbar-left {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap; 
+}
+
+.logo {
+  font-size: 1.8em;
+}
+
+.navbar-left h2 {
+  font-size: 1.2em;
+  font-weight: 600;
+  color: #ddd;
+  margin-top: 18px;
+}
+
+.navbar-right {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.user-role {
+  font-size: 0.9em;
+  color: #f1f5f9;
+}
+
+.logout-btn {
+  background-color: #e63946;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.3s;
+  white-space: nowrap;
+}
+.logout-btn:hover {
+  background-color: #b91c1c;
+}
+
+.staff-dashboard {
+  text-align: center;
+  padding: 50px 20px;
+  width: 100%;
+}
+
+.staff-dashboard h2 {
+  font-size: 1.8em;
+  color: #1e40af;
+  margin-bottom: 10px;
+}
+
+.staff-dashboard p {
+  font-size: 1em;
+  color: #666;
+  margin-bottom: 30px;
+}
+
+.staff-buttons {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.staff-buttons button {
+  padding: 14px 30px;
+  border-radius: 12px;
+  font-size: 1em;
+  font-weight: 600;
+  border: none;
+  cursor: pointer;
+  transition: 0.3s;
+  color: white;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.upload-btn { background: #16a34a; }
+.upload-btn:hover { background: #15803d; }
+
+.view-btn { background: #2563eb; }
+.view-btn:hover { background: #1e3a8a; }
+
+.staff-dashboard-full {
+  padding: 30px 20px;
+}
+
+.page-title {
+  font-size: 1.6em;
+  color: #1e40af;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.back-btn {
+  background: #888;
+  color: white;
+  border: none;
+  padding: 8px 14px;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-bottom: 20px;
+  display: inline-block;
+}
+.back-btn:hover {
+  background: #666;
+}
+
+.upload-section,
+.view-section {
+  background: #fff;
+  padding: 25px;
+  border-radius: 14px;
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+
+.upload-section input {
+  width: 100%; 
+  padding: 12px;
+  border-radius: 10px;
+  border: 1px solid #cbd5e1;
+  background: #f9fafb;
+  transition: 0.3s;
+  margin-bottom: 15px; 
+}
+
+.upload-section input:focus {
+  border-color: #2563eb;
+  background: white;
+  outline: none;
+}
+
+.upload-section button {
+  width: 100%;
+  background: #2563eb;
+  color: white;
+  font-weight: 600;
+  padding: 12px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  transition: 0.3s;
+}
+.upload-section button:hover {
+  background: #1e40af;
+}
+
+.table-responsive {
+  width: 100%;
+  overflow-x: auto; 
+  -webkit-overflow-scrolling: touch; 
+  margin-top: 10px;
+}
+
+.view-section table {
+  width: 100%;
+  border-collapse: collapse;
+  border-radius: 10px;
+  min-width: 600px; 
+  background: white;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.view-section th {
+  background: #2563eb;
+  color: white;
+  padding: 12px;
+  font-weight: 600;
+  text-align: left;
+}
+
+.view-section td {
+  padding: 12px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.view-section tr:nth-child(even) {
+  background: #f9fafb;
+}
+
+@media (max-width: 768px) {
+  /* Stack Navbar */
+  .staff-navbar {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 15px;
+    padding: 20px;
+  }
+  
+  .navbar-left, .navbar-right {
+    width: 100%;
+    justify-content: space-between;
+  }
+  
+  .navbar-left h1 {
+    font-size: 1em;
+  }
+
+  .staff-dashboard {
+    padding: 30px 15px;
+  }
+
+  .staff-dashboard h2 {
+    font-size: 1.5em;
+  }
+
+  .staff-buttons button {
+    width: 100%; 
+    max-width: 100%;
+  }
+
+  .staff-dashboard-full {
+    padding: 20px 10px;
+  }
+
+  .upload-section,
+  .view-section {
+    padding: 20px;
+    width: 100%;
+  }
+
+  .view-section th, 
+  .view-section td {
+    padding: 10px 8px;
+    font-size: 0.9em;
+  }
+}

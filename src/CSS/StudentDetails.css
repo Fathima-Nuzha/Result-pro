@@ -1,0 +1,143 @@
+.student-details-page {
+  padding: 30px;
+  font-family: "Poppins", sans-serif;
+  background-color: #f5f6fa;
+  min-height: 100vh;
+}
+
+/* header */
+.student-details-page h2 {
+  background: #003b8e;
+  color: white;
+  padding: 15px 25px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  font-size: 1.5rem;
+}
+
+/* form items */
+.add-course-form {
+  background: #ffffff;
+  padding: 25px;
+  margin-bottom: 25px;
+  border-radius: 10px;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+}
+
+.add-course-form h3 {
+  margin-top: 0;
+  color: #333;
+  border-bottom: 2px solid #e6ecff;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
+
+/* input grids) */
+.form-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 15px;
+  margin-bottom: 20px;
+}
+
+.form-grid input,
+.form-grid select {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-family: inherit;
+  font-size: 14px;
+}
+
+.form-grid input:focus {
+  outline: none;
+  border-color: #003b8e;
+}
+
+/* buttns */
+.add-btn {
+  background-color: #28a745;
+  color: white;
+  border: none;
+  padding: 12px 30px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.2s;
+  font-weight: 600;
+  display: block;
+  margin-left: auto;
+}
+
+.add-btn:hover {
+  background-color: #218838;
+  transform: translateY(-2px);
+}
+
+.back-btn {
+  background-color: #6c757d;
+  color: white;
+  border: none;
+  padding: 8px 20px;
+  font-weight: bold;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.2s;
+  margin-bottom: 15px;
+}
+
+.back-btn:hover {
+  background-color: #5a6268;
+}
+
+/* table */
+.details-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+  margin-top: 20px;
+}
+
+.details-table th,
+.details-table td {
+  padding: 12px 15px;
+  text-align: left;
+  border-bottom: 1px solid #eee;
+}
+
+.details-table th {
+  background-color: #e6ecff;
+  color: #003b8e;
+  font-weight: 600;
+}
+
+.details-table tr:hover {
+  background-color: #f9f9f9;
+}
+
+/* table delete button */
+.delete-btn {
+  background-color: #dc3545;
+  color: white;
+  border: none;
+  padding: 5px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 12px;
+}
+
+.delete-btn:hover {
+  background-color: #c82333;
+}
+
+/* csv upload */
+input[type="file"] {
+  border: 2px dashed #ccc;
+  padding: 20px;
+  width: 100%;
+  border-radius: 8px;
+  background: #fafafa;
+  cursor: pointer;
+}

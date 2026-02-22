@@ -1,0 +1,288 @@
+.signup-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(135deg, #c4e0e5, #4ca1af);
+  min-height: 100vh;
+  font-family: "Poppins", sans-serif;
+}
+
+.signup-card {
+  background: #fff;
+  border-radius: 16px;
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.15);
+  padding: 30px 40px;
+  width: 550px;
+}
+.signup-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px 0;
+  background-color: #f8f9fa;
+  min-height: 100vh;
+}
+
+.signup-card {
+  background: white;
+  padding: 30px 40px;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  width: 600px;
+}
+
+.signup-title {
+  text-align: center;
+  color: #004085;
+  margin-bottom: 25px;
+}
+
+form h3 {
+  margin-top: 25px;
+  font-size: 18px;
+  color: #004085;
+  border-bottom: 2px solid #007bff;
+  padding-bottom: 6px;
+  margin-bottom: 15px;
+}
+
+form label {
+  display: inline-block;
+  width: 180px; 
+  font-weight: 600;
+  color: #333;
+  font-size: 14px;
+  vertical-align: middle;
+}
+
+form input,
+form select {
+  display: inline-block;
+  width: calc(100% - 200px); 
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  font-size: 14px;
+  margin-bottom: 12px;
+  vertical-align: middle;
+  transition: border-color 0.2s ease-in-out;
+}
+
+form input:focus,
+form select:focus {
+  outline: none;
+  border-color: #007bff;
+  box-shadow: 0 0 4px rgba(0, 123, 255, 0.3);
+}
+
+/* OTP section */
+.otp-section {
+  margin-top: 16px;
+}
+
+.otp-section label {
+  display: inline-block;
+  width: 180px;
+}
+
+.otp-section input {
+  width: calc(100% - 200px);
+}
+
+.otp-section button {
+  margin-left: 180px;
+  margin-top: 8px;
+}
+
+.reg-error {
+  color: #d9534f;
+  font-size: 13px;
+  margin-left: 180px;
+  display: block;
+}
+
+/* Buttons */
+.register-btn,
+.back-btn {
+  display: inline-block;
+  padding: 10px 20px;
+  margin-top: 15px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.register-btn {
+  background-color: #007bff;
+  color: white;
+  margin-right: 10px;
+}
+
+.back-btn {
+  background-color: #6c757d;
+  color: white;
+}
+
+.register-btn:hover {
+  background-color: #0056b3;
+}
+
+.back-btn:hover {
+  background-color: #545b62;
+}
+
+
+.signup-title {
+  text-align: center;
+  font-size: 24px;
+  color: #1f3b4d;
+  margin-bottom: 20px;
+}
+
+
+.form-section {
+  margin-bottom: 25px;
+}
+
+.form-section h3 {
+  font-size: 18px;
+  color: #2a5d67;
+  border-left: 4px solid #4ca1af;
+  padding-left: 8px;
+  margin-bottom: 10px;
+}
+
+.form-row {
+  display: flex;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.form-row label {
+  flex: 1;
+  font-weight: 500;
+  color: #333;
+  margin-right: 10px;
+}
+
+.form-row input,
+.form-row select {
+  flex: 2;
+  padding: 8px 10px;
+  border-radius: 8px;
+  border: 1px solid #bbb;
+  transition: 0.3s;
+  font-size: 14px;
+}
+
+.form-row input:focus,
+.form-row select:focus {
+  border-color: #4ca1af;
+  box-shadow: 0 0 4px #4ca1af;
+  outline: none;
+}
+
+.reg-preview {
+  font-size: 13px;
+  color: #555;
+  margin-top: 3px;
+  display: block;
+}
+
+button {
+  width: 50%;
+  padding: 14px 0;       
+  font-size: 16px;     
+  font-weight: 600;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  transition: 0.3s;
+  text-align: center;
+}
+
+.otp-btn {
+  background-color: #4ca1af;
+  color: white;
+}
+
+.register-btn {
+  background-color: #2a5d67;
+  color: white;
+}
+
+.back-btn {
+  background-color: #ccc;
+  color: #333;
+  margin-top: 10px;
+}
+
+button:hover {
+  opacity: 0.9;
+}
+
+.otp-inline {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.otp-inline input {
+  width: 140px;
+  padding: 8px 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.otp-inline .register-btn {
+  width: 160px;         
+  padding: 8px 12px;
+  background-color: #4caf50;
+  color: #fff;
+  border-radius: 4px;
+}
+
+.otp-inline .register-btn:hover {
+  background-color: #45a049;
+}
+
+.reg-inline {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.reg-inline input {
+  width: 70px;
+  padding: 6px 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.reg-inline span {
+  font-weight: bold;
+}
+
+.otp-expired-text {
+  color: red;
+  font-size: 13px;
+  margin-top: 5px;
+}
+
+.form-row select {
+  appearance: none;     
+  background-color: #fff;
+  background-image: url("data:image/svg+xml;charset=US-ASCII,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16'%3E%3Cpath fill='gray' d='M4 6l4 4 4-4z'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 10px center;
+  background-size: 12px;
+  cursor: pointer;
+}
+
+.reg-error {
+  color: red;
+  font-size: 13px;
+  margin-top: 3px;
+}
